@@ -1,18 +1,17 @@
 <!doctype html>
 <html>
 <head>
-<title>辰溪县第一中学寒假延迟通知</title>
+<title>任科佳的网站</title>
   <script>
     alert("悄悄地告诉你：");
-alert("这玩意儿是假滴～");
-    alert("好啦好啦，别生气啦，开个玩笑嘛");
-alert("毕竟肺炎这是闹出我就在家里闲着没事干嘞")
-    alert("放你走叭");
+alert("这玩意儿是RKJ的网站～");
+    alert("正在写代码中");
+alert("毕竟暑假我就在家里闲着没事干嘞")
+    alert("等着吧你");
 alert("我数三二一再见");
 alert("三");
     alert("二");
 alert("一");
-alert("掰～(๑ت๑)ﾉ");
     </script>
 <body>
 </body>
